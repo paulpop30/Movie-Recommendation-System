@@ -1,3 +1,4 @@
 # Movie-Recommendation-System
 To run this project, open the .ipynb file using Jupyter Notebook. The notebook consists of sequential code cells that should be executed in order to ensure the correct flow of data and computations. Before running the notebook, clone this repository to your local machine and make sure all required libraries are installed—either via the provided requirements.txt file or by manually installing the necessary packages. If you're new to Jupyter Notebooks, this video tutorial provides a helpful introduction, though many other tutorials are also available online.
-![mvmvmvmv](https://github.com/user-attachments/assets/3f2f384f-b135-4513-bf32-4ca2989524f7)
+
+![2323232](https://github.com/user-attachments/assets/adcaa529-667b-4e60-bab8-31055f37a01d)
